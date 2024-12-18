@@ -1,0 +1,43 @@
+.browser-box {
+  width: 100vw;
+  max-width: 450px;
+}
+
+.main-box {
+  position: relative;
+  width: auto;
+  height: 500px;
+  background-image: url("../../../public/imgFile/christmasTreePixel.png");
+  background-size: cover;
+}
+
+.message-box {
+  position: absolute;
+  bottom: 40px;
+  display: flex;
+  justify-content: center;
+  width: 90%;
+}
+
+.snowmanPixel {
+  width: 70px;
+  height: 70px;
+}
+
+.message-box-content {
+  line-height: 1.8;
+}
+
+.message-box-span {
+  font-family: "DungGeunMo";
+  font-size: 12px;
+}
+
+.message-box-btn-div {
+  text-align: end;
+  margin-top: 5px;
+}
+
+.message-pop {
+  font-family: "DungGeunMo";
+}
