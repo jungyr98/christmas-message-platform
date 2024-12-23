@@ -23,7 +23,7 @@
 
 ### Skill
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Lombok-a14933?style=flat-square&logo=lombok&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>   
-<img src="https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=dotenv&logoColor=white"/>
+<img src="https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=dotenv&logoColor=white"/> <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/>
 
 ### DBMS
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
