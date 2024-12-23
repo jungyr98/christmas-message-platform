@@ -2,8 +2,8 @@
 # Christmas Message Platform Backend :christmas_tree::love_letter:
 
 <!-- 프로젝트 결과물 GIF -->
-<img src="https://github.com/user-attachments/assets/c4a633df-974a-4869-99b7-daf4cf355324" width="440" />
-<img src="https://github.com/user-attachments/assets/6f4cae32-101e-4533-afe9-5b4493c68d4f" width="440" />
+<img src="https://github.com/user-attachments/assets/c4a633df-974a-4869-99b7-daf4cf355324" width="400" />
+<img src="https://github.com/user-attachments/assets/6f4cae32-101e-4533-afe9-5b4493c68d4f" width="400" />
 
 ## :grey_question: 소개
 - Amazon EC2 배포를 위해 시작한 작은 프로젝트.
