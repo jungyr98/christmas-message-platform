@@ -1,5 +1,5 @@
 
-# Christmas Message Platform Backend :christmas_tree::love_letter:
+# Christmas Message Platform Frontend :christmas_tree::love_letter:
 
 <!-- 프로젝트 결과물 GIF -->
 <img src="https://github.com/user-attachments/assets/c4a633df-974a-4869-99b7-daf4cf355324" width="400" />
