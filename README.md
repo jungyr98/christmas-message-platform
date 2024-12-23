@@ -15,13 +15,15 @@
 ## :bookmark_tabs: Spec
 
 ### Language
-<img src="https://img.shields.io/badge/Amazon Correctto 17-FF9900?style=flat-square&logo=amazon&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-407291?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon Correctto 17-FF9900?style=flat-square&logo=amazon&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white"/>   
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 ### Build Tool
-<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Create React App-09D3AC?style=flat-square&logo=createreactapp&logoColor=white"/>
 
-### Backend Skill
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Lombok-a14933?style=flat-square&logo=lombok&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+### Skill
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Lombok-a14933?style=flat-square&logo=lombok&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>   
+<img src="https://img.shields.io/badge/.ENV-ECD53F?style=flat-square&logo=dotenv&logoColor=white"/>
 
 ### DBMS
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -30,12 +32,13 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 ### IDE
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-22a6f2?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 ## :moneybag: 광고 삽입 수익 지표
 ![image](https://github.com/user-attachments/assets/6002511c-7ea2-499a-a033-75d260bca1fa)
 
 ### :pushpin: 사용법
+#### Backend
 - 테이블 생성
 ```
 CREATE TABLE `스키마명`.`message` (
@@ -52,4 +55,9 @@ spring.datasource.url=jdbc:mysql://아이피:포트/데이터베이스명
 spring.datasource.username=유저명
 spring.datasource.password=패스워드
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+```
+#### Frontend
+- .env 생성 후 해당 정보 기입
+```
+REACT_APP_SERVER_URL=http://아이피:포트
 ```
